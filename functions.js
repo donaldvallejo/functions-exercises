@@ -3,4 +3,9 @@ function combine(str1, str2) {
   var result = str1 + str2;
   return result
 }
-combine("dog","house");
+function repeatPhrase(phrase, n) {
+var stuff = while(phrase <= n){
+    console.log(stuff);
+  }
+}
+repeatPhrase("Hello", 5);
