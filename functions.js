@@ -2,10 +2,10 @@
 function combine(str1, str2) {
   var result = str1 + str2;
   return result
-}
+};
 function repeatPhrase(phrase, n) {
-var stuff = while(phrase <= n){
-    console.log(stuff);
+  while(phrase <= n){
+    console.log(repeatPhrase);
   }
 }
 repeatPhrase("Hello", 5);
